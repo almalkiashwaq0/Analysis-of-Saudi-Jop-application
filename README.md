@@ -58,16 +58,18 @@ This project performs **Exploratory Data Analysis (EDA)** on job postings from t
 
 1️⃣ **Gender Requirements**  
    - We found a close gender requirement gap, where job postings open to both genders achieved the highest share at 39.9%, followed by male-only roles at 32.7%, and female-only roles at 27.4%, as shown in the chart below.
-     <p align="center">
+<p align="center">
   <img src="Images/Gender.png" alt="Gender Requirement Distribution" width="450">
-     </p>
+</p>
 
 
 2️⃣ **Salary Insights**  
    - The **average salary** across all postings is around **5,285 SAR**, with some roles offering up to **35,000 SAR**.
    - For **fresh graduates**, the **average salary** drops to around **4,712 SAR**.
    - Jobs specifically targeted **for women only** tend to **offer lower salaries** compared to roles requiring **men only** or **open to both genders** *(as shown in the chart)*.
-     ![Salary Chart](Images/Salary.png)
+<p align="center">
+  <img src="Images/Salary.png" alt="Salary Chart" width="450">
+</p>
 
 3️⃣ **Regional Demand**  
    - **44.8%** of all job postings are concentrated in the **Riyadh** region.  
