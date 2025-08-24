@@ -57,7 +57,7 @@ This project performs **Exploratory Data Analysis (EDA)** on job postings from t
 ## 📊 Key Insights
 
 1️⃣ **Gender Requirements**  
-   - We found a close gender requirement gap, where job postings open to both genders achieved the highest share at 39.9%, followed by male-only roles at 32.7%, and female-only roles at 27.4%, as shown in the chart below.
+   - We found a close gender requirement gap, where job postings open to both genders achieved the highest share at 39.9%, followed by male-only roles at 32.7%, and female-only roles at 27.4%, *(as shown in the chart)*.
 <p align="center">
   <img src="Images/Gender.png" alt="Gender Requirement Distribution" width="450">
 </p>
@@ -73,13 +73,18 @@ This project performs **Exploratory Data Analysis (EDA)** on job postings from t
 
 3️⃣ **Regional Demand**  
    - **44.8%** of all job postings are concentrated in the **Riyadh** region.  
-   - **Makkah** follows as the **second-highest** region, with **28.3%** of postings.
-   - *(as shown in the chart)*.
-     ![Region Chart](Images/Region.png)
+   - **Makkah** follows as the **second-highest** region, with **28.3%** of postings, *(as shown in the chart)*.
+<p align="center">
+  <img src="Images/Region.png" alt="Region Chart" width="450">
+</p>
+
 
 4️⃣ **Most Demanded Role**  
-   - As shown in the figure, the **most posted job** was **“Seller”**, appearing **98 times** across listings.
-     ![Jobs Chart](Images/Jobs.png)
+   - As shown in the figure, the **most posted job** was **“Seller”**, appearing **98 times** across listings, *(as shown in the chart)*.
+<p align="center">
+  <img src="Images/Jobs.png" alt="Jobs Chart" width="450">
+</p>
+
 
 ---
 
