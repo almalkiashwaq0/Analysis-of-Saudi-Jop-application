@@ -58,7 +58,9 @@ This project performs **Exploratory Data Analysis (EDA)** on job postings from t
 
 1️⃣ **Gender Requirements**  
    - We found a close gender requirement gap, where job postings open to both genders achieved the highest share at 39.9%, followed by male-only roles at 32.7%, and female-only roles at 27.4%, as shown in the chart below.
-     ![Gender Chart](Images/Gender.png) 
+     <p align="center">
+  <img src="Images/Gender.png" alt="Gender Requirement Distribution" width="450">
+     </p>
 
 
 2️⃣ **Salary Insights**  
